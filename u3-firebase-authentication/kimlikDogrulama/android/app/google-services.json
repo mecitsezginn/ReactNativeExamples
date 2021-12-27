@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507057033392",
+    "project_id": "authentication-c8838",
+    "storage_bucket": "authentication-c8838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507057033392:android:5113a22b1c0ea546caab75",
+        "android_client_info": {
+          "package_name": "com.kimlikdogrulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507057033392-989cp9e0jnogt5v21bl1v3k9n2pmj87v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5GroyFnWDV5BdGTWYW57bCZCN2hSG30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507057033392-989cp9e0jnogt5v21bl1v3k9n2pmj87v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
